@@ -8,4 +8,4 @@ from typing import Optional
 
 app = FastAPI()
 
-DATBASE_URL = "sqllite:///demo.db"
+DATBASE_URL = "sqlite:///demo.db"
